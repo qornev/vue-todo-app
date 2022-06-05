@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+# Разработка веб-приложения с Vue.js и Firebase для ведения списка дел
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Запуск проекта
 
-## Recommended IDE Setup
+```sh
+git clone https://github.com/qornev/vue-todo-app.git
+cd vue-todo-app
+npm install
+npm run dev
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Скриншоты работы проекта
+
+![empty-app](.github/assets/empty-app.png)
+
+![add-element](.github/assets/add-element.png)
+
+![app-with-todos](.github/assets/app-with-todos.png)
